@@ -1,0 +1,20 @@
+.head1{
+    text-align: center;
+    color: orange;
+    /* font-size: 60px; */
+    margin: 0;
+}
+.menuList{
+    list-style: none;
+    display: flex;
+    align-items: flex-end;
+    float: right;
+}
+.item{
+    padding-left: 25px;
+    font-size: 20px;
+}
+/* option{
+    border: 0;
+    box-shadow: none;
+} */
